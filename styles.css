@@ -9,6 +9,13 @@
 /*
 chenges normal background color
 */
+
+html{
+    width: 375px;
+    height: 275px;
+}
+
+
 body{
     background: grey;
 }
