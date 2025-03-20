@@ -44,12 +44,12 @@ body{
     left: 4%;
     padding: 40px;
     display: flex;
-    color: white;
+    color: black;
     align-items:center;
     justify-content: space-around;
     border-radius: 5px;
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
+    font-size: 40px;
 
     
 }
